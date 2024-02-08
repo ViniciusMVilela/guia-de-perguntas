@@ -1,0 +1,14 @@
+*{
+    border: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+div #formulario-pergunta{
+    margin-top: 5vh;
+}
+
+navimg{
+    width: 20px;
+    height: 40px;
+}
